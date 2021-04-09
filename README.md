@@ -2,7 +2,7 @@
 - 👀 I’m interested in Go
 - 🌱 I’m currently learning Go
 - 💞️ I’m collaborating on Baman.club
-- 📫 How to reach me https://t.me/misaghrm
+- 📫 How to reach me t.me/misaghrm
 
 <!---
 misaghrm/misaghrm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

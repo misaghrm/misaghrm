@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @misaghrm
 - 👀 I’m interested in Go
 - 🌱 I’m currently learning Go
-- 💞️ I’m looking to collaborate on Baman
+- 💞️ I’m collaborating on Baman.club
 - 📫 How to reach me https://t.me/misaghrm
 
 <!---
